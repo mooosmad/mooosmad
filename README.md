@@ -25,4 +25,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooosmad&layout=compact&theme=merko)](https://github.com/&theme=merko/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooosmad&theme=merko&show_icons=true)](https://github.com/mooosmad/github-readme-stats)
