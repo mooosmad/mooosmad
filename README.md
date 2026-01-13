@@ -2,7 +2,7 @@
 
 <h3 align="left">About me :</h3>
 
--  👨🏽‍💻 Software Engineer Freelance 
+-  👨🏽‍💻 Software Engineer  
 -  i’m currently working on some ideas
 - ❤️ I love swift, flutter, reactjs, nextjs, expressjs, elysiajs and building fun experiments on type-level
 <h3 align="left">Languages and Tools :</h3>
