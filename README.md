@@ -22,4 +22,4 @@
     </p>
 
 <br>
-[committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mooosmad&show_icons=true&theme=merko&hide_border=true)](https://github.com/mooosmad)
