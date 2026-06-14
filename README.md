@@ -21,5 +21,4 @@
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40">
     </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooosmad&layout=compact&theme=merko&langs_count=8)](https://github.com/mooosmad)
-
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
