@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <h3 align="left">About me :</h3>
 
 - Software engineer — mobile & security. Abidjan 🇨🇮
