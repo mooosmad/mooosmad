@@ -2,9 +2,11 @@
 
 <h3 align="left">About me :</h3>
 
--  👨🏽‍💻 Software Engineer  
--  i’m currently working on some ideas
-- ❤️ I love swift, flutter, reactjs, nextjs, expressjs, elysiajs and building fun experiments on type-level
+- 👨🏽‍💻 Software engineer — mobile & security. Abidjan 🇨🇮
+- 📱 Flutter, native, and a bit of backend. Fintech mostly.
+- 🔭 Currently exploring on-device AI (Apple Foundation Models)
+- ✍️ I write about iOS 26/27 & mobile dev on [LinkedIn](https://www.linkedin.com/in/sangare-mohamed-aime-didier-81a662155)
+
 <h3 align="left">Languages and Tools :</h3>
     <p align="left">
         <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" height="40" width ="40">
@@ -23,6 +25,6 @@
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40">
     </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooosmad&layout=compact&theme=merko)](https://github.com/&theme=merko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooosmad&layout=compact&theme=merko&langs_count=8)](https://github.com/mooosmad)
 <br>
 [![committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
