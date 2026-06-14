@@ -2,10 +2,8 @@
 
 <h3 align="left">About me :</h3>
 
-- 👨🏽‍💻 Software engineer — mobile & security. Abidjan 🇨🇮
-- 📱 Flutter, native, and a bit of backend. Fintech mostly.
-- 🔭 Currently exploring on-device AI (Apple Foundation Models)
-- ✍️ I write about iOS 26/27 & mobile dev on [LinkedIn](https://www.linkedin.com/in/sangare-mohamed-aime-didier-81a662155)
+- Software engineer — mobile & security. Abidjan 🇨🇮
+- Flutter, native, and a bit of backend. Fintech mostly.
 
 <h3 align="left">Languages and Tools :</h3>
     <p align="left">
