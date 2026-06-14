@@ -22,4 +22,4 @@
     </p>
 
 <br>
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
+![committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
