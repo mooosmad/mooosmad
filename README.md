@@ -1,48 +1,28 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Shikasmadu — Mobile craft. Security mindset. Software engineer based in Abidjan, Côte d’Ivoire." />
-</p>
+# Shikasmadu
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sangare-mohamed-81a662155/">LinkedIn</a> &nbsp;↗&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://gitlab.com/mooosmad">GitLab</a> &nbsp;↗&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/mooosmad?tab=repositories">Explore my code</a> &nbsp;↗
-</p>
+Software engineer — mobile & security. Abidjan 🇨🇮
 
-<br />
+Flutter, native, and a bit of backend. Fintech mostly.
 
-### A little context
-
-I'm **Shikasmadu**, a software engineer based in **Abidjan, Côte d’Ivoire** 🇨🇮.
-I build mobile apps with **Flutter and native technologies**, work across a bit of backend, and spend most of my time in **fintech**. Security is part of how I think about software.
-
-<br />
-
-| 01 / Mobile | 02 / Security | 03 / Fintech |
-| :--- | :--- | :--- |
-| Thoughtful interfaces.<br />Flutter & native development. | A security mindset.<br />Attention to what happens beneath the UI. | Real-world complexity.<br />Software where trust matters. |
-
-<br />
-
-### The toolkit
-
-**Mobile** &nbsp; / &nbsp; `Flutter` · `Dart` · `Swift`
-
-**Web & backend** &nbsp; / &nbsp; `TypeScript` · `React` · `PHP` · `Python` · `Firebase`
-
-**Workflow** &nbsp; / &nbsp; `Git` · `GitHub` · `GitLab` · `Figma` · `Linux` · `Vim`
-
-<br />
-
----
+### Languages & tools
 
 <p>
-  <sub>ABIDJAN, CI &nbsp; / &nbsp; MOBILE · SECURITY · FINTECH</sub>
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" title="Swift" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" title="PHP" height="40" width="60" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" title="GitLab" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" height="40" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" title="Vim" height="40" width="40" /> &nbsp;
 </p>
 
-<details>
-  <summary>Community activity</summary>
-  <br />
-  <a href="https://user-badge.committers.top/ivory_coast/mooosmad">
-    <img src="https://user-badge.committers.top/ivory_coast/mooosmad.svg" alt="committers.top — Côte d’Ivoire" />
-  </a>
-</details>
+[LinkedIn](https://www.linkedin.com/in/sangare-mohamed-81a662155/) · [GitLab](https://gitlab.com/mooosmad)
+
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/mooosmad.svg)](https://user-badge.committers.top/ivory_coast/mooosmad)
