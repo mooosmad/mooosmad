@@ -1,6 +1,6 @@
 # Shikasmadu
 
-Software engineer — mobile & security. Abidjan 🇨🇮
+Software engineer — mobile & security.
 
 Flutter, native, and a bit of backend. Fintech mostly.
 
