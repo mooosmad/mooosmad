@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Shikasmadu — Mobile craft. Security mindset.</title>
+  <desc id="desc">Software engineer in Abidjan. A dark editorial banner with lime typography and an abstract mobile security diagram.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#DDE4D8" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="screen" x1="874" y1="148" x2="1076" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#242E24"/><stop offset="1" stop-color="#101710"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#C6F66B" stop-opacity=".10"/><stop offset="1" stop-color="#C6F66B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="520" rx="22" fill="#101410"/>
+  <rect x="1" y="1" width="1278" height="518" rx="21" stroke="#30392E"/>
+  <rect x="1" y="1" width="1278" height="518" rx="21" fill="url(#grid)"/>
+  <ellipse cx="995" cy="255" rx="280" ry="250" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="48" y="38" width="36" height="36" rx="10" fill="#C6F66B"/>
+    <path d="m57 50 6 6-6 6m10 0h9" stroke="#101410" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="100" y="62" fill="#F0F1E9" font-size="19" font-weight="700" letter-spacing="2">SHIKASMADU</text>
+    <text x="1232" y="60" fill="#A5B09D" font-size="14" text-anchor="end" font-family="monospace">@mooosmad</text>
+    <path d="M48 98H1232" stroke="#30392E"/>
+    <text x="48" y="148" fill="#A5B09D" font-size="12" letter-spacing="3" font-family="monospace">SOFTWARE ENGINEER / ABIDJAN, CI</text>
+    <text x="44" y="239" fill="#F0F1E9" font-size="76" font-weight="700" letter-spacing="-4">Mobile craft.</text>
+    <text x="44" y="325" fill="#C6F66B" font-size="76" font-weight="700" letter-spacing="-4">Security mindset.</text>
+    <text x="48" y="375" fill="#A5B09D" font-size="19">Flutter, native &amp; a bit of backend. Fintech mostly.</text>
+    <path d="M48 437H1232" stroke="#30392E"/>
+    <circle cx="54" cy="475" r="5" fill="#C6F66B"/>
+    <text x="72" y="480" fill="#CFD5C8" font-size="12" letter-spacing="1.4" font-family="monospace">MOBILE / SECURITY / FINTECH</text>
+    <text x="1232" y="480" fill="#7E8C76" font-size="12" text-anchor="end" letter-spacing="1.5" font-family="monospace">CRAFT MEETS INTENT.</text>
+  </g>
+  <g>
+    <circle cx="1023" cy="266" r="143" stroke="#48573D" stroke-dasharray="3 9"/>
+    <circle cx="1023" cy="266" r="112" stroke="#303D2A"/>
+    <path d="M838 266H1207M1023 117V415" stroke="#3C4A33" stroke-dasharray="4 8"/>
+    <rect x="947" y="140" width="152" height="252" rx="27" fill="#101710" stroke="#839773" stroke-width="1.5"/>
+    <rect x="956" y="149" width="134" height="234" rx="20" fill="url(#screen)" stroke="#394832"/>
+    <rect x="1000" y="157" width="46" height="5" rx="2.5" fill="#627455"/>
+    <path d="m1023 211 34 13v31c0 27-34 45-34 45s-34-18-34-45v-31l34-13Z" fill="#C6F66B" fill-opacity=".06" stroke="#C6F66B" stroke-width="2"/>
+    <path d="m1009 253 10 10 20-23" stroke="#C6F66B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M980 332h86M980 343h58" stroke="#6C805C" stroke-width="3" stroke-linecap="round"/>
+    <rect x="1008" y="370" width="30" height="3" rx="1.5" fill="#627455"/>
+    <path d="M912 185h-30v38m251 86h30v38" stroke="#C6F66B" stroke-width="1.5"/>
+    <rect x="1158" y="250" width="32" height="32" rx="8" fill="#C6F66B"/>
+    <path d="m1167 266 5 5 9-10" stroke="#172010" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="880" cy="266" r="5" fill="#C6F66B"/>
+    <circle cx="1023" cy="409" r="4" fill="#839773"/>
+    <text x="1124" y="169" fill="#A5B09D" font-size="11" font-family="monospace" letter-spacing="1">BUILD.</text>
+    <text x="1124" y="186" fill="#A5B09D" font-size="11" font-family="monospace" letter-spacing="1">REFINE.</text>
+    <text x="1124" y="203" fill="#C6F66B" font-size="11" font-family="monospace" letter-spacing="1">REPEAT.</text>
+  </g>
+</svg>
